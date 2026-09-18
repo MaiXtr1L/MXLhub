@@ -13,3 +13,7 @@ npm-debug.log*
 # Editor directories
 .vscode/
 .idea/
+
+# Local preview server (not for production / Vercel)
+server.js
+
